@@ -1,0 +1,8 @@
+/dist/*
+nbdist/
+/build/*
+nbbuild/
+nbproject/private/
+nbactions.xml
+nb-configuration.xml
+public_html/dist/*
